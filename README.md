@@ -1,6 +1,5 @@
 # Contador de dedos com arduino <h1>
 ### Funciona com base em python e uma biblioteca de versionamento para o arduino <h3>
-# RGB Led controlado por arduino
 
 - [Contador de dedos com arduino](#contador-de-dedos-com-arduino)
   - [Visão geral](#visão-geral)
